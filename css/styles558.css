@@ -94,8 +94,8 @@ body {
 .boton-play {
 	position: absolute;
 	width: 6%;
-	top: 49.6%;
-    left: 46.3%;
+	top: 49%;
+    left: 46.9%;
 	animation-duration: 0.5s !important;
 }
 
